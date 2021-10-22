@@ -1,0 +1,13 @@
+.Header {
+    background-color: rgba(250,225,2,.8980392156862745);
+    min-height: 20vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: cornsilk;
+}
+#loguito{
+    height: 15vmin;
+}

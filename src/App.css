@@ -24,6 +24,24 @@
   color: white;
 }
 
+.Containers {
+  display: flex;
+  flex-direction: row;
+
+}
+.Containers2 {
+  display: flex;
+  flex-direction: row;
+  
+}
+.App-bote {
+  height: 1vmin;
+  pointer-events: none;
+}
+.List {
+
+  margin-top: 50px;
+}
 .App-link {
   color: #61dafb;
 }
